@@ -1,5 +1,5 @@
 # angryBirdMockup
-Simple game using boxbox physics
+Simple game using boxbox physics engine: [documentation](http://incompl.github.io/boxbox/updoc.html).
 
  Rules of the game: feed Mr. Angry. Help him reach the corn, after having knocked down (physically touched) all 4 different pillars.
 > Bonus: knockdown the pillars (will receive 10 points for each)
