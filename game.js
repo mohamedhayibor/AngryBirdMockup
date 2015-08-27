@@ -21,7 +21,7 @@ world.createEntity({
 		return true;
 	},
 	onKeyDown: function (e) {
-		this.applyImpulse(200, 55);
+		this.applyImpulse(300 * Math.random(), 55);
 	}
 });
 
