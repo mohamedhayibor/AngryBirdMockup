@@ -7,6 +7,8 @@ Simple game using boxbox physics engine: [documentation](http://incompl.github.i
 Your goal is getting the perfect score 100pts. Repeat as much as possible until you become a Master.
 > Press on 'ctrl' + r to refresh the page.
 
+![image of the master player](https://github.com/mohamedhayibor/mohamedhayibor.github.io/blob/master/masterPlayer.PNG)
+
 You can play the game at: [mohamedhayibor.github.io](mohamedhayibor.github.io).
 Hint: There is a dead zone to avoid as the bird can only fly to the right.
 
